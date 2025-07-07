@@ -150,7 +150,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Fast Food AlertDialog Example',
+          'Fast Food AlertDialog',
           style: GoogleFonts.poppins(fontSize: 22, fontWeight: FontWeight.bold),
         ),
       ),
