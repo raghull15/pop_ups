@@ -1,16 +1,2 @@
-# pop_ups
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/157f5fd6-9b55-4ff3-b5b2-4112b7d8caf6" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/038e9058-e8bf-46cd-b961-9295d2eef25e" />
